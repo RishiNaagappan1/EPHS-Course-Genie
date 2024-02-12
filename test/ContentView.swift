@@ -32,7 +32,7 @@ struct WelcomeView: View {
                 .frame(width: 200, height: 200)
                 .foregroundColor(.red)
             
-            Text("Welcome to EPHS Course Genie")
+            Text("Welcome to EPHS Course Genie!")
                 .foregroundColor(.red)
                 .font(.title)
                 .padding()
