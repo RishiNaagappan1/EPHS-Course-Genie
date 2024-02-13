@@ -16,7 +16,7 @@ struct ContentView: View {
                     Text("Already have an account? Log in")
                         .foregroundColor(.red)
                 }
-                
+               .padding() 
             }
             .navigationBarHidden(true)
         }
